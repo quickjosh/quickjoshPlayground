@@ -1,8 +1,10 @@
 ---
+
 layout: default
-modal-id: 3
-date: 2014-07-16
+modal-id: 7
+date: 2014-07-18
 img: Thumb_WashingtonCorp_imgJoshQuick.svg
+img2: WashingtonCorp_imgJoshQuick.svg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
