@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef808962-5272-448e-8337-f8911ce4bd3b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/web development/2014/07/16/project-3/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-16-project-7.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-13-project-6.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-13-project-6.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-14-project-5.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-14-project-5.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/about.html" afterPath="$PROJECT_DIR$/_includes/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/web development/2014/07/14/project-5/index.html" afterPath="$PROJECT_DIR$/_site/web development/2014/07/14/project-5/index.html" />
@@ -17,9 +9,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/web development/2014/07/15/project-6/index.html" afterPath="$PROJECT_DIR$/_site/web development/2014/07/15/project-6/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/web development/2014/07/17/project-2/index.html" afterPath="$PROJECT_DIR$/_site/web development/2014/07/17/project-2/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/web development/2014/07/18/project-1/index.html" afterPath="$PROJECT_DIR$/_site/web development/2014/07/18/project-1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modals.html" afterPath="$PROJECT_DIR$/_includes/modals.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/img/portfolio/thumb_JacksonHoleMagazine_imgJoshQuick.svg" afterPath="$PROJECT_DIR$/_site/img/portfolio/thumb_JacksonHoleMagazine_imgJoshQuick.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumb_JacksonHoleMagazine_imgJoshQuick.svg" afterPath="$PROJECT_DIR$/img/portfolio/thumb_JacksonHoleMagazine_imgJoshQuick.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/web development/2014/07/18/project-7/index.html" afterPath="$PROJECT_DIR$/_site/web development/2014/07/18/project-7/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="quickjoshPlayground.iws" />
@@ -41,42 +31,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="modals.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/modals.html">
+      <file leaf-file-name="portfolio_grid.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/portfolio_grid.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="15" column="104" selection-start-line="15" selection-start-column="104" selection-end-line="15" selection-end-column="104" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-07-15-project-4.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-07-16-project-7.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-07-16-project-7.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32307693">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-07-17-project-2.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="11" />
-              <folding />
+            <state vertical-scroll-proportion="0.26357827">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,10 +52,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_site/style.css" />
-        <option value="$PROJECT_DIR$/_includes/css/main.css" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/_includes/portfolio_grid.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_includes/about.html" />
         <option value="$PROJECT_DIR$/_site/web development/2014/07/14/project-5/index.html" />
@@ -106,6 +66,8 @@
         <option value="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-16-project-7.markdown" />
+        <option value="$PROJECT_DIR$/_includes/css/main.css" />
+        <option value="$PROJECT_DIR$/_includes/portfolio_grid.html" />
       </list>
     </option>
   </component>
@@ -217,6 +179,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickjoshPlayground" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quickjoshPlayground" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -358,14 +338,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6769231">
-          <caret line="476" column="1" selection-start-line="476" selection-start-column="1" selection-end-line="476" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/nav.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8146965">
@@ -400,16 +372,6 @@
         <state vertical-scroll-proportion="0.6076795">
           <caret line="324" column="52" selection-start-line="324" selection-start-column="52" selection-end-line="324" selection-end-column="58" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/portfolio_grid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57507986">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -469,26 +431,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/modals.html">
+    <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="15" column="104" selection-start-line="15" selection-start-column="104" selection-end-line="15" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.13964687">
+          <caret line="211" column="11" selection-start-line="211" selection-start-column="11" selection-end-line="211" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -498,6 +444,40 @@
         <state vertical-scroll-proportion="0.32307693">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/modals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19169329">
+          <caret line="15" column="104" selection-start-line="15" selection-start-column="104" selection-end-line="15" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.046153847">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/portfolio_grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26357827">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
