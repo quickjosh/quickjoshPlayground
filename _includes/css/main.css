@@ -455,3 +455,14 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.portfolioIcons {
+    display:inline-block;
+    margin:0 7px;
+}
+
+.iconContainer {
+    margin:20px auto 0 auto;
+    height:auto;
+
+}
