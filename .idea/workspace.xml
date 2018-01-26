@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef808962-5272-448e-8337-f8911ce4bd3b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/favicon.ico" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustratiom/2014/07/13/project-6/index.html" afterPath="$PROJECT_DIR$/_site/illustratiom/2014/07/13/project-6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2014/07/14/project-5/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2014/07/14/project-5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2014/07/15/project-4/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2014/07/15/project-4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2014/07/16/project-7/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2014/07/16/project-7/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2014/07/17/project-2/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2014/07/17/project-2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2014/07/18/project-1/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2014/07/18/project-1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="quickjoshPlayground.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +36,8 @@
       <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28846154">
-              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.24038461">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -93,8 +82,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
-    <option name="y" value="400" />
+    <option name="x" value="203" />
+    <option name="y" value="830" />
     <option name="width" value="1593" />
     <option name="height" value="747" />
   </component>
@@ -242,7 +231,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="400" width="1593" height="747" extended-state="0" />
+    <frame x="203" y="830" width="1593" height="747" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -452,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28846154">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.24038461">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
           <folding />
         </state>
       </provider>
