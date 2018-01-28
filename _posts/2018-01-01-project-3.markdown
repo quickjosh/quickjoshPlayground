@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 8
 img: thumb_DomaCoffeeJoshQuick.svg
 img2: DomaCoffee_imgJoshQuick.svg
 client: Doma Coffee Roasting Company
