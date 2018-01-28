@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-01-26T15:31:16-07:00</updated>
+  <updated>2018-01-28T15:07:08-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -191,11 +191,11 @@
   
     <entry>
       <title type="html">Project 6</title>
-      <link href="http://localhost:4000/illustratiom/2014/07/13/project-6/" rel="alternate" type="text/html" title="Project 6" />
+      <link href="http://localhost:4000/illustration/2014/07/13/project-6/" rel="alternate" type="text/html" title="Project 6" />
       <published>2014-07-13T00:00:00-06:00</published>
       <updated>2014-07-13T00:00:00-06:00</updated>
-      <id>http://localhost:4000/illustratiom/2014/07/13/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/illustratiom/2014/07/13/project-6/"></content>
+      <id>http://localhost:4000/illustration/2014/07/13/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/illustration/2014/07/13/project-6/"></content>
 
       
       
@@ -210,7 +210,7 @@
       </author>
 
       
-        <category term="Illustratiom" />
+        <category term="Illustration" />
       
 
       

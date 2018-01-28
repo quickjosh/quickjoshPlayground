@@ -2,9 +2,8 @@
 
 layout: default
 modal-id: 7
-img: Thumb_WashingtonCorp_imgJoshQuick.svg
-img2: WashingtonCorp_imgJoshQuick.svg
-client: Washington Corp.
+img: thumb_BlitzenTrapperJoshQuick.svg
+img2: BlitzenTrapper_imgJoshQuick.svg
+client: Log Jam Entertainment
 category: Illustration
-
 ---

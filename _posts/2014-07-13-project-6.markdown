@@ -3,8 +3,7 @@ layout: default
 modal-id: 6
 img: thumb_InlanderMagazinePortfolio_JoshQuick.svg
 img2: InlanderMagazinePortfolio_JoshQuick.svg
-client: Jackson Hole Magazine
-category: Illustratiom
-urlClient: http://jacksonholemagazine.com/
+client: Pacific Northwest Inlander
+category: Illustration
 
 ---
