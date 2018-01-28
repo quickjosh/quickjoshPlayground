@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 4
-img: thumb_Submittable_imgJoshQuick.svg
-img2: Submittable_imgJoshQuick.svg
-client: Submittable
+img: thumb_DomaCoffeeJoshQuick.svg
+img2: DomaCoffee_imgJoshQuick.svg
+client: Doma Coffee Roasting Company
 category: Illustration
 
 ---

@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef808962-5272-448e-8337-f8911ce4bd3b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/illustratiom/2014/07/13/project-6/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/favicon.png" afterPath="$PROJECT_DIR$/_site/favicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-13-project-6.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-13-project-6.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-16-project-7.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-16-project-7.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/img/portfolio/BlitzenTrapper_imgJoshQuick.svg" afterPath="$PROJECT_DIR$/_site/img/portfolio/BlitzenTrapper_imgJoshQuick.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/BlitzenTrapper_imgJoshQuick.svg" afterPath="$PROJECT_DIR$/img/portfolio/BlitzenTrapper_imgJoshQuick.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2014/07/13/project-6/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2014/07/13/project-6/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2014/07/14/project-5/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2014/07/14/project-5/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2014/07/15/project-4/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2014/07/15/project-4/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2014/07/16/project-7/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2014/07/16/project-7/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2014/07/17/project-2/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2014/07/17/project-2/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2014/07/18/project-1/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2014/07/18/project-1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/main.css" afterPath="$PROJECT_DIR$/_includes/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/style.css" afterPath="$PROJECT_DIR$/_site/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="quickjoshPlayground.iws" />
@@ -72,18 +66,8 @@
       <file leaf-file-name="2014-07-15-project-4.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11574074">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-07-17-project-2.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.20833333">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -155,9 +139,7 @@
         <option value="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" />
         <option value="$PROJECT_DIR$/_includes/portfolio_grid.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-14-project-5.markdown" />
         <option value="$PROJECT_DIR$/_includes/contact.html" />
         <option value="$PROJECT_DIR$/_includes/contact_static.html" />
@@ -169,6 +151,8 @@
         <option value="$PROJECT_DIR$/_includes/css/main.css" />
         <option value="$PROJECT_DIR$/_posts/2014-07-13-project-6.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-16-project-7.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown" />
       </list>
     </option>
   </component>
@@ -555,22 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-07-16-project-7.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-07-13-project-6.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -587,10 +555,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-07-16-project-7.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09259259">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11574074">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.20833333">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
