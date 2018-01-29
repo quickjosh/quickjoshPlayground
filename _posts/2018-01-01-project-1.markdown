@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 1
 img: thumb_JacksonHoleMagazine_imgJoshQuick.svg
 img2: JacksonHoleMagazine_imgJoshQuick.svg
 client: Jackson Hole Magazine
