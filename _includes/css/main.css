@@ -148,7 +148,7 @@ header .intro-text .skills {
     }
 }
 
-.navbar-brand img {
+img.navIcon  {
     width:28px!important;
     height:auto!important;
     display:inline-block!important;
