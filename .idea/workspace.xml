@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef808962-5272-448e-8337-f8911ce4bd3b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/main.css" afterPath="$PROJECT_DIR$/_includes/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-1/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-2/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-3/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-4/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-5/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-5/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-6/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-7/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-7/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-8/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-8/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-9/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-9/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="quickjoshPlayground.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="nav.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="nav.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.0833335">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.30394432">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40186915">
-              <caret line="157" column="36" selection-start-line="157" selection-start-column="36" selection-end-line="157" selection-end-column="36" />
+            <state vertical-scroll-proportion="1.962963">
+              <caret line="161" column="21" selection-start-line="161" selection-start-column="21" selection-end-line="161" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -84,8 +96,8 @@
         <option value="$PROJECT_DIR$/_posts/2018-01-01-project-8.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-01-project-9.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-01-project-1.markdown" />
-        <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_includes/css/main.css" />
+        <option value="$PROJECT_DIR$/_includes/nav.html" />
       </list>
     </option>
   </component>
@@ -98,7 +110,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="35" />
-    <option name="y" value="176" />
+    <option name="y" value="175" />
     <option name="width" value="1245" />
     <option name="height" value="554" />
   </component>
@@ -219,7 +231,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="176" width="1245" height="554" extended-state="0" />
+    <frame x="35" y="175" width="1245" height="554" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -513,18 +525,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+    <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0833335">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="38" />
+        <state vertical-scroll-proportion="1.962963">
+          <caret line="161" column="21" selection-start-line="161" selection-start-column="21" selection-end-line="161" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
+    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40186915">
-          <caret line="157" column="36" selection-start-line="157" selection-start-column="36" selection-end-line="157" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.30394432">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
