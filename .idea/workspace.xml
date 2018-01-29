@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef808962-5272-448e-8337-f8911ce4bd3b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-1/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-2/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-3/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-4/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-5/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-6/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-7/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-7/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-8/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-8/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-9/index.html" afterPath="$PROJECT_DIR$/_site/illustration/2018/01/01/project-9/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/main.css" afterPath="$PROJECT_DIR$/_includes/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/style.css" afterPath="$PROJECT_DIR$/_site/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="quickjoshPlayground.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,8 +46,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75233644">
-              <caret line="158" column="1" selection-start-line="158" selection-start-column="1" selection-end-line="158" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.40186915">
+              <caret line="157" column="36" selection-start-line="157" selection-start-column="36" selection-end-line="157" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -537,8 +523,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75233644">
-          <caret line="158" column="1" selection-start-line="158" selection-start-column="1" selection-end-line="158" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.40186915">
+          <caret line="157" column="36" selection-start-line="157" selection-start-column="36" selection-end-line="157" selection-end-column="36" />
           <folding />
         </state>
       </provider>
