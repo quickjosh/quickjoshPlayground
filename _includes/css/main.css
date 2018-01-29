@@ -148,9 +148,17 @@ header .intro-text .skills {
     }
 }
 
+.navbar-brand img {
+    width:28px;
+    height:auto;
+    display:inline-block;
+    position:relative;
+    top:-3px;
+    left:-6px;
+    vertical-align:middle;
+}
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -465,6 +473,15 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
 
+.fa-fw {
+    font-size:.5em;
+    border:2px solid #fff;
+    width:20px;
+    height:20px;
+    border-radius:50%;
+    padding:10px;
+    margin-right:7px;
+}
 /* Fix modal mouse wheel issues */
 /* https://github.com/twbs/bootstrap/issues/16297 */
 .modal.fade.in {
