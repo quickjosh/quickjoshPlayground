@@ -148,15 +148,27 @@ header .intro-text .skills {
     }
 }
 
-img.navIcon  {
+.navbar-brand:hover {
+    color:#ff7700!important;
+    display:inline-block;
+}
+
+.navbar-brand:before {
+    content:url('../../img/portfolio/JoshQuickIcon.svg');
+    display:inline-block;
     width:28px!important;
     height:auto!important;
-    display:inline-block!important;
     position:relative!important;
-    top:-3px!important;
-    left:-6px!important;
+    top:-2px!important;
+    left:0!important;
     vertical-align:middle!important;
 }
+
+.navbar-brand:hover:before {
+    content:url('../../img/portfolio/JoshQuickIcon2.svg');
+}
+
+
 .navbar {
     text-transform: uppercase;
     font-weight: 700;
@@ -521,3 +533,27 @@ footer .footer-below {
 @-moz-keyframes wiggle{0%{-moz-transform:rotate(3deg);}50%{-moz-transform:rotate(-3deg);}100%{-moz-transform:rotate(3deg);}}
 @-webkit-keyframes wiggle{0%{-webkit-transform:rotate(3deg);}50%{-webkit-transform:rotate(-3deg);}100%{-webkit-transform:rotate(3deg);}}
 @keyframes wiggle{0%{transform:rotate(3deg);}50%{transform:rotate(-3deg);}100%{transform:rotate(3deg);}}
+
+.tooltip-inner {
+    background-color: #ff7700 !important;
+    /*!important is not necessary if you place custom.css at the end of your css calls. For the purpose of this demo, it seems to be required in SO snippet*/
+    color: #fff!important;
+    font-size:1em!important;
+    text-transform: none!important;
+}
+
+.tooltip.top .tooltip-arrow {
+    border-top-color: #fff;
+}
+
+.tooltip.right .tooltip-arrow {
+    border-right-color: #f0eee9;
+}
+
+.tooltip.bottom .tooltip-arrow {
+    border-bottom-color: #ff7700;
+}
+
+.tooltip.left .tooltip-arrow {
+    border-left-color: #f0eee9;
+}
