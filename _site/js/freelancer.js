@@ -3,7 +3,9 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+});
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     $('.page-scroll a').bind('click', function(event) {
@@ -16,9 +18,7 @@ $(function() {
 });
 
 
-$(function () {
-    $('[data-toggle="tooltip"]').tooltip()
-});
+
 
 // Floating label headings for the contact form
 $(function() {
