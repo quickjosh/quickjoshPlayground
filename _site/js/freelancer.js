@@ -15,6 +15,11 @@ $(function() {
     });
 });
 
+
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+});
+
 // Floating label headings for the contact form
 $(function() {
     $("body").on("input propertychange", ".floating-label-form-group", function(e) {
@@ -29,14 +34,11 @@ $(function() {
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({
     target: '.navbar-fixed-top'
-})
+});
 
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
-// tooltip
-$(function () {
-    $('[data-toggle="tooltip"]').tooltip()
-});
+
