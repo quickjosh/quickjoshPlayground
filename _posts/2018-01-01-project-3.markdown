@@ -5,5 +5,6 @@ img: thumb_DomaCoffeeJoshQuick.svg
 img2: DomaCoffee_imgJoshQuick.svg
 client: Doma Coffee Roasting Company
 category: Illustration
+alt: Doma Coffee Roasting Company Packaging Illustration by Josh Quick
 
 ---

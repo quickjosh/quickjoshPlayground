@@ -6,4 +6,6 @@ img: thumb_BlitzenTrapperJoshQuick.svg
 img2: BlitzenTrapper_imgJoshQuick.svg
 client: Log Jam Entertainment
 category: Illustration
+alt: Blitzen Trapper Rock Poster Illustration by Josh Quick
+
 ---

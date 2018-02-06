@@ -5,5 +5,6 @@ img: thum_PearlJamPortfolio_JoshQuick.svg
 img2: PearlJam_imgJoshQuick.svg
 client: Pearl Jam
 category: Illustration
+alt: Pearl Jam Rock Poster Illustration by Josh Quick
 
 ---

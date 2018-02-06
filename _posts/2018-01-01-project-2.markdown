@@ -5,4 +5,5 @@ img: thumb_MissoulaPublicLibraryJoshQuick.svg
 img2: MissoulaPublicLibrary_imgJoshQuick.svg
 client: Missoula Public Library
 category: Illustration
+alt: Missoula Public Library Illustration by Josh Quick
 ---

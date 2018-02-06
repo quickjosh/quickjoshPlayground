@@ -5,4 +5,5 @@ img: thumb_JacksonHoleMagazine_imgJoshQuick.svg
 img2: JacksonHoleMagazine_imgJoshQuick.svg
 client: Jackson Hole Magazine
 category: Illustration
+alt: Jackson Hole Magazine Editorial Illustration by Josh Quick
 ---
