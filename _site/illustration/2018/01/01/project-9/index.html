@@ -56,7 +56,6 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-
                 <a class="navbar-brand" href="#page-top"  data-toggle="tooltip" data-placement="bottom" title="Hello, welcome to my site. If you'd like to discuss a possible project send me a message on my contact form. Thanks!"> Josh Quick</a>
             </div>
 
@@ -707,7 +706,17 @@
     <script>
     $(function () {
        $('[data-toggle="tooltip"]').tooltip()
+       $(".toolTip").delay(1000).fadeTo(5000, 0);
+       $(".toolTip").on({
+          mouseleave: function() {
+             $(this).delay(1000).fadeTo(5000, 0);
+          },
+          mouseenter: function() {
+             $(this).stop().fadeTo(500, 1);
+          }
+       });
     });
+
             </script>
 
     </body>
