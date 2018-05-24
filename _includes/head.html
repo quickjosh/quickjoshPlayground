@@ -3,16 +3,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ site.description }}">
-    <meta name="keywords" content="{{ site.keywords }}" />
+    <meta name="description" content="{{ Josh Quick is illustrator, front-end developer and designer from Missoula, Montana. This is a repository exhibiting some highlights of his work. }}">
+    <meta name="keywords" content="{{ Pacific Northwest, Missoula, Montana, Josh Quick, illustration, Illustrator, Animation, HTML, CSS, JS, front-end }}" />
     {% if site.meta_author %}<meta name="author" content="{{ site.meta_author }}">{% endif %}
-    <link rel="canonical" href="{{ page.url | replace:'quickjosh.com.html','' | prepend: site.url }}">
+    <link rel="canonical" href="https://quickjosh.com"/>
 
     <!--<link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">-->
     <link rel="shortcut icon" type="image/png" href="/favicon.png">
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="{{ "style.css" }}">
-
+<script>
+    if ( window.self === window.top ) { 
+    // console.log("not in a frame") 
+       window.location.href = 'https://www.quickjosh.com';
+    }
+</script>
     <!-- Google verification -->
     {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 
@@ -31,7 +36,7 @@
     }</script>
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Josh Quick">
-    <meta property="og:title" content="Josh Quick Illustration & Design">
+    <meta property="og:title" content="Josh Quick Illustration 	&amp; Design">
     <meta property="og:url" content="https://www.quickjosh.com/">
     <meta property="og:image" content="https://www.quickjosh.com/img/JoshQuickFbookImg2.png">
     <meta property="og:description" content="Josh Quick is a Missoula, MT based illustrator, developer, and graphic designer available for freelance.">
