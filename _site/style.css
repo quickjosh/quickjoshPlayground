@@ -93,7 +93,7 @@ header {
 }
 header .container {
     padding-top: 60px;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 header img {
     display: block;
@@ -120,7 +120,6 @@ header .intro-text .skills {
 
 @media (min-width: 768px) {
     header .container {
-        padding-top: 150px;
         padding-bottom: 100px;
     }
     header .intro-text .name {
@@ -133,7 +132,8 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        /* padding: 25px 0; */
+        /* to make room for book */
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -566,4 +566,23 @@ footer .footer-below {
 
 .tooltip.left .tooltip-arrow {
     border-left-color: #f0eee9;
+}
+
+/* Buy my book ad */
+.buy-my-book-container > a {
+    background:#ff7700;
+    color:white;
+    display:block;
+    text-decoration:underline;
+    padding:20px 0 10px 0;
+    margin:0;
+}
+
+.buy-my-book-container.container {
+    padding:50px 0 0 0;
+    width:100%;
+}
+
+.book-purchase-link:hover {
+color:#2c3e50;
 }
