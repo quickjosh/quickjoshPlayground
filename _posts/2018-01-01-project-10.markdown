@@ -2,11 +2,11 @@
 
 layout: default
 modal-id: 10
-img: thumb_bootstrapped_JoshQuick.svg
-img2: bootstrapped_imgJoshQuick.svg
+img: thumb_devCon_JoshQuick.svg
+img2: devCon_imgJoshQuick.svg
 client: Montana High Tech Alliance
-client-link: https://mthightech.org/
+client-link: https://bigskydevcon.org/
 category: Illustration
-alt: Montana High Tech Alliance Podcast Bootstrapped image by Josh Quick
+alt: Big Sky Dev Con in Bozeman, MT image by Josh Quick
 
 ---
