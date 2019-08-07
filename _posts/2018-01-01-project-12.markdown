@@ -4,6 +4,7 @@ modal-id: 12
 img: thumb_Doma2Portfolio_JoshQuick.svg
 img2: DomaCoffee2_imgJoshQuick.svg
 client: Doma Coffee Roasting Company
+client-link: domacoffee.com
 category: Illustration
 alt: Doma Coffee Packaging Art by Josh Quick
 

@@ -4,6 +4,7 @@ modal-id: 6
 img: thumb_InlanderMagazinePortfolio_JoshQuick.svg
 img2: InlanderMagazinePortfolio_JoshQuick.svg
 client: Pacific Northwest Inlander
+client-link: https://www.inlander.com/
 category: Illustration
 alt: Pacific Northwest Inlander Cover Illustration by Josh Quick
 

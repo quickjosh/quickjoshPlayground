@@ -4,6 +4,7 @@ modal-id: 1
 img: thumb_JacksonHoleMagazine_imgJoshQuick.svg
 img2: JacksonHoleMagazine_imgJoshQuick.svg
 client: Jackson Hole Magazine
+client-link : http://jacksonholemagazine.com/
 category: Illustration
 alt: Jackson Hole Magazine Editorial Illustration by Josh Quick
 ---

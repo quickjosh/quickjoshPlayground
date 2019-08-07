@@ -20,7 +20,7 @@
                             <ul class="list-inline item-details">
                                 {% if post.client %}
                                     <li>Client:
-                                        <strong><a >{{ post.client }}</a>
+                                        <strong><a target= "_blank" href=" {{ post.client-link }} ">{{ post.client }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
@@ -32,7 +32,7 @@
                                 {% endif %}
                                 {% if post.category %}
                                     <li>Service:
-                                        <strong><a >{{ post.category }}</a>
+                                        <strong>{{ post.category }}
                                         </strong>
                                     </li>
                                 {% endif %}
