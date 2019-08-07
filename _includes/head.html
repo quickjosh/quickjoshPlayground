@@ -3,8 +3,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ Josh Quick is illustrator, front-end developer and designer from Missoula, Montana. This is a repository exhibiting some highlights of his work. }}">
-    <meta name="keywords" content="{{ Pacific Northwest, Missoula, Montana, Josh Quick, illustration, Illustrator, Animation, HTML, CSS, JS, front-end }}" />
+    <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="{{ site.description }}">
     {% if site.meta_author %}<meta name="author" content="{{ site.meta_author }}">{% endif %}
     <link rel="canonical" href="https://quickjosh.com"/>
 
@@ -29,10 +30,5 @@
     "url": "https://www.quickjosh.com",
     "logo": "https://www.quickjosh.com/img/JoshQuickFbookImg.png"
     }</script>
-    <meta property="og:locale" content="en_US">
-    <meta property="og:site_name" content="Josh Quick">
-    <meta property="og:title" content="Josh Quick Illustration 	&amp; Design">
-    <meta property="og:url" content="https://www.quickjosh.com/">
-    <meta property="og:image" content="https://www.quickjosh.com/img/JoshQuickFbookImg2.png">
-    <meta property="og:description" content="Josh Quick is a Missoula, MT based illustrator, developer, and graphic designer available for freelance.">
+
 </head>
