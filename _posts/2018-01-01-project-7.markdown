@@ -2,11 +2,11 @@
 
 layout: default
 modal-id: 7
-img: thumb_BlitzenTrapperJoshQuick.svg
-img2: BlitzenTrapper_imgJoshQuick.svg
-client: Log Jam Entertainment
-client-link: https://logjampresents.com/
+img: thumb_SubmittableBlogJoshQuick2.svg
+img2: SubmittableBlog_imgJoshQuick2.svg
+client: Submittable
+client-link: https://discover.submittable.com/
 category: Illustration
-alt: Blitzen Trapper Rock Poster Illustration by Josh Quick
+alt: Submittable Editorial Illustrations by Josh Quick
 
 ---

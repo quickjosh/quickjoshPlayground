@@ -1,10 +1,11 @@
 ---
 layout: default
 modal-id: 8
-img: thumb_FairyFlossJoshQuick.svg
-img2: FairyFloss_imgJoshQuick.svg
-client: Fairy Floss
+img: thumb_WesternMontanaFairJoshQuick.svg
+img2: WesternMontanaFair_imgJoshQuick.svg
+client: Western Montana Fair
+client-link: https://missoulafairgrounds.com/
 category: Illustration
-alt: Fairy Floss Packaging Illustration by Josh Quick
+alt: Western Montana Fair Promotion Illustration by Josh Quick
 
 ---
