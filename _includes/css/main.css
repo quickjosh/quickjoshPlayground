@@ -140,7 +140,6 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink {
-        padding: 10px 0;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
@@ -207,7 +206,6 @@ section.success {
 
 @media(max-width:767px) {
     section {
-        padding: 75px 0;
     }
 
     section.first {
