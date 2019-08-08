@@ -6,6 +6,6 @@ img2: DomaCoffee2_imgJoshQuick.svg
 client: Doma Coffee Roasting Company
 client-link: https://domacoffee.com/
 category: Illustration
-alt: Doma Coffee Packaging Art by Josh Quick
+# alt: Doma Coffee Packaging Art by Josh Quick
 
 ---

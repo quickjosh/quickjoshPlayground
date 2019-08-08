@@ -7,6 +7,6 @@ img2: devCon_imgJoshQuick.svg
 client: Montana High Tech Alliance
 client-link: https://bigskydevcon.org/
 category: Illustration
-alt: Big Sky Dev Con in Bozeman, MT image by Josh Quick
+# alt: Big Sky Dev Con in Bozeman, MT image by Josh Quick
 
 ---

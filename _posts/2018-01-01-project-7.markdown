@@ -7,6 +7,6 @@ img2: SubmittableBlog_imgJoshQuick2.svg
 client: Submittable
 client-link: https://discover.submittable.com/
 category: Illustration
-alt: Submittable Editorial Illustrations by Josh Quick
+# alt: Submittable Editorial Illustrations by Josh Quick
 
 ---

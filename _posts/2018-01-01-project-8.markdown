@@ -6,6 +6,6 @@ img2: WesternMontanaFair_imgJoshQuick.svg
 client: Western Montana Fair
 client-link: https://missoulafairgrounds.com/
 category: Illustration
-alt: Western Montana Fair Promotion Illustration by Josh Quick
+# alt: Western Montana Fair Promotion Illustration by Josh Quick
 
 ---

@@ -6,6 +6,6 @@ img2: Consent_imgJoshQuick.svg
 client: Partners Creative
 client-link : https://www.partnerscreative.com/
 category: Illustration
-alt: Consent Campaign Illustrations by Josh Quick
+# alt: Consent Campaign Illustrations by Josh Quick
 
 ---

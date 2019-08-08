@@ -6,5 +6,5 @@ img2: MissoulaPublicLibrary_imgJoshQuick.svg
 client: Missoula Public Library
 client-link : https://www.missoulapubliclibrary.org/
 category: Illustration
-alt: Missoula Public Library Illustration by Josh Quick
+# alt: Missoula Public Library Illustration by Josh Quick
 ---

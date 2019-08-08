@@ -5,6 +5,6 @@ img: thumb_indy2_JoshQuick.svg
 img2: indy2_imgJoshQuick.svg
 client: Missoula Independent
 category: Illustration
-alt: Alternative Weekly Illustration by Josh Quick
+# alt: Alternative Weekly Illustration by Josh Quick
 
 ---
