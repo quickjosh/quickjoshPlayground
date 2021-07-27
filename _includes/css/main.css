@@ -62,19 +62,19 @@ hr.star-light {
     border-color: #fff;
 }
 
-hr.star-light:after {
+/* hr.star-light:after {
     color: #fff;
     background-color: #{{ site.color.primary }};
 }
 
 hr.star-primary {
     border-color: #{{ site.color.secondary }};
-}
+} */
 
-hr.star-primary:after {
+/* hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
-}
+} */
 
 .img-centered {
     margin: 0 auto;
@@ -83,16 +83,13 @@ header {
     text-align: center;
     background: #18BC9C;
     color: white;
+    padding: 5em 0 1em 0;
 }
 header .container {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-header img {
-    display: block;
-    margin: 0 auto 20px;
-    width:350px;
-}
+
 header .intro-text .name {
     display: block;
     font-family: 'Droid Sans', sans-serif;
@@ -108,6 +105,15 @@ header .intro-text .skills {
 @media (max-width:768px) {
     .navbar-custom {
         height:50px!important;
+    }
+    .flex--books {
+        flex-direction: column;
+    }
+}
+
+@media (max-width:850px) {
+    .grid--book {
+        grid-template-columns: .5fr 1fr;
     }
 }
 
@@ -191,18 +197,15 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 4em 0;
 }
 
-section h2 {
+h2 {
     margin: 0;
     font-size: 3em;
+    text-align: center;
 }
 
-section.success {
-    color: #fff;
-    background: #{{ site.color.primary }};
-}
 
 @media(max-width:767px) {
     section {
@@ -560,34 +563,31 @@ footer .footer-below {
 }
 
 /* Buy my book ad */
-.buy-my-book-container > a {
-    background:#ff7700;
-    color:white;
-    display:block;
-    text-decoration:underline;
-    padding:20px 0 10px 0;
-    margin:0;
+.grid--book {
+    display: grid;
+    grid-template-columns: 0.6fr 1fr;
+    grid-gap: 1em;
+    margin:1em;
+    padding:0 1em;
+}
+.grid--book div:first-child {
+    padding:1em .5em 1em .5em;
+}
+.flex--books {
+    display: inline-flex;
 }
 
-.buy-my-book-container.container {
-    padding:50px 0 0 0;
-    width:100%;
+.section--books {
+    background:yellow;
+    padding:1em 0;
 }
 
-.book-purchase-link:hover {
-color:#2c3e50;
+.success {
+    background:#39f1cd;
 }
 
-.book-purchase-link-triangle {
-    width: 0;
-    height: 0;
-    border-left: 25px solid transparent;
-    border-right: 5px solid transparent;
-    border-top: 125px solid #ff7700;
-    position: absolute;
-    top: 93px;
-    z-index: 1000;
-    right: -68px;
-    left: 0;
-    margin: 0 auto;
+div.grid--book a {
+font-size: 1.2em;
+color:#007e65;
+text-decoration: underline;
 }
