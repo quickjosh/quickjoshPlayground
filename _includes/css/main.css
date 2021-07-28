@@ -564,18 +564,23 @@ footer .footer-below {
 
 /* Buy my book ad */
 .grid--book {
+    margin-top:2em;
     display: grid;
-    grid-template-columns: 0.6fr 1fr;
-    grid-gap: 1em;
-    margin:1em;
+    grid-template-columns: 1fr;
     padding:0 1em;
+    max-width:900px;
+    margin:2em auto 0 auto;
+}
+
+.grid--book:first-child {
+
 }
 .grid--book div:first-child {
-    padding:1em .5em 1em .5em;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1em;
 }
-.flex--books {
-    display: inline-flex;
-}
+
 
 .section--books {
     background:yellow;
@@ -590,4 +595,8 @@ div.grid--book a {
 font-size: 1.2em;
 color:#007e65;
 text-decoration: underline;
+}
+
+iframe {
+    height:100%;
 }
