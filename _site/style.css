@@ -113,14 +113,17 @@ header .intro-text .skills {
     .navbar-custom {
         height:50px!important;
     }
-    .flex--books {
-        flex-direction: column;
+ 
+    .grid--book div{
+        display:flex!important;
+        flex-direction: column!important;
     }
 }
 
 @media (max-width:850px) {
-    .grid--book {
-        grid-template-columns: .5fr 1fr;
+    .grid--book div{
+        display:flex!important;
+        flex-direction: column!important;
     }
 }
 
@@ -144,6 +147,8 @@ header .intro-text .skills {
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
+
+  
 
     .navbar-fixed-top .navbar-brand {
         font-size: 2em;
@@ -214,14 +219,7 @@ h2 {
 }
 
 
-@media(max-width:767px) {
-    section {
-    }
 
-    section.first {
-        padding-top: 75px;
-    }
-}
 
 #portfolio .portfolio-item {
     right: 0;
@@ -278,6 +276,7 @@ h2 {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+    
 }
 
 .btn-outline {
@@ -585,9 +584,10 @@ footer .footer-below {
 .grid--book div:first-child {
     display:grid;
     grid-template-columns: 1fr 1fr;
+    grid-row: 100px;
     grid-gap: 1em;
+    
 }
-
 
 .section--books {
     background:yellow;
