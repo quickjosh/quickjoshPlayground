@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 4
+img: img--wren-thumb.jpg
+img2: img--wren.jpg
+client: Think Tank
+client-link: https://www.thinktankarchitects.com/
+category: Large Mural
+alt: Mural Illustrations for the Wren hotel by Josh Quick
+---

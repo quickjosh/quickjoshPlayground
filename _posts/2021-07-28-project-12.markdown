@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 12
+img: img--sub1-thumb.jpeg
+img2: img--sub1.jpeg
+client: Submittable
+client-link: https://submittable.com/
+category: Illustration
+alt: Blog Illustration by Josh Quick
+---

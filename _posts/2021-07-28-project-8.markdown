@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 8
+img: img--robot-thumb.jpg
+img2: img--robot.jpg
+client: img--robot.jpg
+client-link: https://www.bigdippericecream.com/
+category: Illustration
+alt: Big Dipper Ice Cream illustration by Josh Quick
+---

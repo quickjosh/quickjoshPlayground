@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 7
+img: img--mural-thumb.jpg
+img2: img--peopleMural.jpg
+client: Families First Missoula
+client-link: https://www.missoulapubliclibrary.org/
+category: Large mural
+alt: Large mural for Missoula Public library by Josh Quick
+---

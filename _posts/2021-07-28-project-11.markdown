@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 11
+img: img--fsb-thumb.png
+img2: img--fsb.png
+client: First Security Bank of Missoula
+category: Illustration / Model
+alt: Billoard and commerical using Josh Quick, Illustrator
+---

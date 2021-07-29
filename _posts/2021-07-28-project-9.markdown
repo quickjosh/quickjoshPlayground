@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 9
+img: img--bicicletta-thumb.jpg
+img2: img--bicicletta.jpg
+client: Doma Coffee Roasting Co.
+client-link: https://www.domacoffee.com/
+category: Packaging Illustration
+alt: Doma Coffee Roasting Co. Illustration by Josh Quick
+---

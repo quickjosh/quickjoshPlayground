@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 10
+img: img--chronic-thumb2.jpg
+img2: img--chronic.jpg
+client: Daft Badger Brewing Co.
+client-link: https://bigskydevcon.org/
+category: Packaging Illustration
+alt: Daft Badger Co. beer label illustration by Josh Quick
+---

@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 6
+img: img--cityOfMissoula-thumb.jpg
+img2: img--cityOfMissoula.jpg
+client: City of Missoula
+client-link: https://www.ci.missoula.mt.us/
+category: Illustration
+alt: Missoula, Montana decision process Illustration by Josh Quick
+---
