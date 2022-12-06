@@ -11,7 +11,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-body {
+ body {
     overflow-x: hidden;
 }
 
@@ -113,7 +113,7 @@ header .intro-text .skills {
     .navbar-custom {
         height:50px!important;
     }
- 
+
     .grid--book div{
         display:flex!important;
         flex-direction: column!important;
@@ -121,9 +121,16 @@ header .intro-text .skills {
 }
 
 @media (max-width:850px) {
-    .grid--book div{
+    .grid--book {
         display:flex!important;
         flex-direction: column!important;
+        gap:.5em;
+        align-items:center;
+    }
+
+    .grid--book img {
+        max-width:600px;
+
     }
 }
 
@@ -148,7 +155,7 @@ header .intro-text .skills {
         transition: padding .3s;
     }
 
-  
+
 
     .navbar-fixed-top .navbar-brand {
         font-size: 2em;
@@ -276,7 +283,7 @@ h2 {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
-    
+
 }
 
 .btn-outline {
@@ -581,12 +588,12 @@ footer .footer-below {
 .grid--book:first-child {
 
 }
-.grid--book div:first-child {
+.grid--book  {
     display:grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-row: 100px;
     grid-gap: 1em;
-    
+
 }
 
 .section--books {
@@ -598,11 +605,7 @@ footer .footer-below {
     background:#39f1cd;
 }
 
-div.grid--book a {
-font-size: 1.2em;
-color:#007e65;
-text-decoration: underline;
-}
+
 
 iframe {
     height:100%;
